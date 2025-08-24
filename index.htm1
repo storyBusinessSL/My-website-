@@ -1,10 +1,22 @@
- <index.htm1> 
-  < htm1>
-    <head>
-      tittle>My Story website</title> 
-    </head> 
-    <body> 
-      <h1>Welcome to My Story Business</h1> 
-      <p>This is my first story website. More stories coming soon!</p> 
-    </body>
-   </htm1> 
+<index.htm1>
+<htm1>
+<head>
+<title>My Story Website</title>
+<style>
+body{ 
+front-family:Arial, sans-serif;
+background:#f4f4f4
+margin: 0;
+padding:  20px;
+}
+h1 {
+color: #333;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to My Story Website</h1>
+<p>once upon a time in sierra leone,there was a young dreamer who wanted to share stories with the world...</p>
+</div>
+</body>
+</htm1>
